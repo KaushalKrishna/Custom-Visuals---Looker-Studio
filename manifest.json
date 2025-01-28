@@ -1,0 +1,10 @@
+{
+  "name": "Gantt Chart Visualization for Looker Studio",
+  "description": "A custom Gantt chart visualization using D3.js, adapted for Looker Studio.",
+  "resources": {
+    "js": ["index.js"],
+    "css": []
+  },
+  "id": "gantt_chart",
+  "version": "1.0.0"
+}
