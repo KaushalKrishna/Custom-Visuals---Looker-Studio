@@ -4,7 +4,7 @@
   "scripts": [
     {
       "path": "https://raw.githubusercontent.com/KaushalKrishna/Custom-Visuals---Looker-Studio/refs/heads/main/index.js"
-    }
+    } 
   ],
   "style": {
     "path": ""
