@@ -3,7 +3,7 @@
   "description": "A test visualization for Looker Studio.",
   "scripts": [
     {
-      "path": "index.js"
+      "path": "https://raw.githubusercontent.com/KaushalKrishna/Custom-Visuals---Looker-Studio/refs/heads/main/index.js"
     }
   ],
   "style": {
